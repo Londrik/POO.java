@@ -10,6 +10,8 @@
         double resultadoCalc = calcular(n1, op, n2);
         System.out.printf("Resultado do cálculo: %.2f\n", resultadoCalc);
 
+
+        
          /**
      * Resolvendo Atividade 3: Estrutura lógica de tomada de decisão aritmética.
      * Delega a execução para métodos coesos especialistas em cada operação matemática.
